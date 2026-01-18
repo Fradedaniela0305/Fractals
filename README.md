@@ -44,10 +44,10 @@ A Python (Pygame) fractal visualizer that renders classic fractals using complex
 
 ### Sierpinski Triangle (Chaos Game)
 ![Chaos Result](screenshots/SierpinskiChaosSS.png)
-![Chaos with Guides](screenshots/SierpinskiChaosGuideSS.png)
+![Chaos with Guides](screenshots/SierpinskiGenRecSS.png)
 
 ### Sierpinski Triangle (Recursive)
-![Recursive Sierpinski](screenshots/SierpinskiGenRecSS.png)
+![Recursive Sierpinski](screenshots/SierpinskiChaosGuideSS.png)
 
 ## Getting Started
 
