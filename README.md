@@ -32,7 +32,23 @@ A Python (Pygame) fractal visualizer that renders classic fractals using complex
 - Add **NumPy acceleration** or multiprocessing for pixel computation.
 - Improve zoom UX (zoom box, zoom out, cached renders).
 - Use higher-precision arithmetic for deep zoom exploration.
-- 
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/MainMenuSS.png)
+
+### Mandelbrot Set
+![Mandelbrot](screenshots/MandelbrotSS.png)
+![Mandelbrot Zoomed In](screenshots/MandelbrotZoomInSS.png)
+
+### Sierpinski Triangle (Chaos Game)
+![Chaos Result](screenshots/SierpinskiChaosSS.png)
+![Chaos with Guides](screenshots/SierpinskiChaosGuideSS.png)
+
+### Sierpinski Triangle (Recursive)
+![Recursive Sierpinski](screenshots/SierpinskiGenRecSS.png)
+
 ## Getting Started
 
 ### Requirements
